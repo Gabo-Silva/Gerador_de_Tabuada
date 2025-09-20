@@ -1,3 +1,3 @@
-# Tabuada
+# Gerador de Tabuada
 # Introdução
-Uma tabuada feita usando puramente python.
+Um Gerador de tabuada feito usando puramente python.
